@@ -1,6 +1,6 @@
 # Arduino-Calculator
 
-September 30, 2021
+October 1, 2021
 
 This is a [Viral Science](https://www.viralsciencecreativity.com/post/arduino-calculator-display) Arduino breadboard project. The program computes numbers and operations inputted from an 4x4 keypad and dispalys the result on an LCD display.
 
